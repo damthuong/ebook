@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ebook</string>
+    <string name="truyen_1">abc</string>
+    <string name="truyen_2">123</string>
+    <string name="truyen_3">AKC</string>
+    <string name="truyen_4">2jk3</string>
+    <string name="truyen_5">nfkdf8fs</string>
+    <string name="truyen_6">DKEU3</string>
+    <string name="title_1">Truyện 1</string>
+    <string name="title_2">Truyện thứ 2</string>
+    <string name="title_3">Truyen thứ 3</string>
+    <string name="title_4">Truyện thứ 4</string>
+    <string name="title_5">Truyện thứ 5</string>
+</resources>
